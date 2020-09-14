@@ -7,6 +7,8 @@ This is project 1 / 20.
 
 You can check out my live project [here](https://rperry99.github.io/quote-generator/).
 
+You can view the full list of project from this course [here](https://github.com/rperry99/ztm-20-javascript-projects).
+
 # Thoughts
 
 I had previously created a random quote generator back when I was doing the [FreeCodeCamp](https://freecodecamp.org) curriculum. Back when I made that random quote generator, I didn't use an API or anything like that. Instead, I had a 2 dimentional array. So I had an array that looked like `let quoteArr = [['Hello World', '-Me'], ['Hi there', '-Someone']]`. This way I had my own list of quotes that I wanted to include.
